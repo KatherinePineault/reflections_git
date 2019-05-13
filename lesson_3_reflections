@@ -26,6 +26,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
+	It gives you the ability to either fast-forward merge or merge the changes made locally to the remote version, and process to resolve the merge 
+	conflicts, may they appear.
+
    
 
 How would you collaborate without using Git or GitHub?  What would be easier,
