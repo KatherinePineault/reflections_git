@@ -34,6 +34,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
+	Without any version-control system, collaborating could be done by having a common way of identifying changes, with comments in the code 
+	or something like that. However, I'm pretty sure that would be pretty inefficient. 
+	What would be easier is to not have to learn Git and Github for everyone in the team. However, it's not that much time involvement it seems. 
+	What would be harder would be to work at the same time on documents (like it's already sort of hard to coordinate when working on text files or
+	something like that) and following the changes made by different people.
+	Flagging changes to be made would also be harder. 
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
