@@ -29,8 +29,6 @@ stored locally?
 	It gives you the ability to either fast-forward merge or merge the changes made locally to the remote version, and process to resolve the merge 
 	conflicts, may they appear.
 
-   
-
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
@@ -44,4 +42,11 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+
+	It feels like if the master branch has code that needs to be used as-is all the time (for a webpage or something like that), 
+	then every single change should be always be made in a branch, to be able to not break the website that is running. 
+	Otherwise, it would be less of a big deal to work directly in the master branch, as long as every commit contains a full feature. 
+	However, I feel like I might be not seeing the problems that could be caused by working directly in the master branch, and that even if it's a bit 
+	more complicated to work in branches, it might be worth it. I'm just lacking the practical knowledge to know why. 
+
 
